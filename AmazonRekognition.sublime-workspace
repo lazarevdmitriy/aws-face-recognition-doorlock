@@ -1,0 +1,1566 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lo",
+				"login"
+			],
+			[
+				"so",
+				"sovok"
+			],
+			[
+				"t",
+				"tourism"
+			],
+			[
+				"re",
+				"regcode"
+			],
+			[
+				"stat",
+				"status_messege"
+			],
+			[
+				"s",
+				"sendmail"
+			],
+			[
+				"va",
+				"validated_data"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"C",
+				"CompletedOrder"
+			],
+			[
+				"ob",
+				"obj"
+			],
+			[
+				"co",
+				"code"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"Fondy",
+				"FondyAPI"
+			],
+			[
+				"mercha",
+				"merchant"
+			],
+			[
+				"fa",
+				"fake_order"
+			],
+			[
+				"ap",
+				"api_merchant_id"
+			],
+			[
+				"fond",
+				"fondy_api"
+			],
+			[
+				"as",
+				"asia"
+			],
+			[
+				"HE",
+				"HEADERS_ASIA"
+			],
+			[
+				"EN",
+				"ENDPOINTS_ASIA"
+			],
+			[
+				"end",
+				"ENDPOINTS"
+			],
+			[
+				"reg",
+				"region"
+			],
+			[
+				"product",
+				"product_id"
+			],
+			[
+				"res",
+				"reset_orders"
+			],
+			[
+				"a",
+				"all"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"de",
+				"debug"
+			],
+			[
+				"__re",
+				"__restore_session__"
+			],
+			[
+				"set",
+				"setracker_api"
+			],
+			[
+				"Se",
+				"Session"
+			],
+			[
+				"sta",
+				"status_messege"
+			],
+			[
+				"or",
+				"orders_today\t(statement)"
+			],
+			[
+				"sen",
+				"sent_statistic\t(function)"
+			],
+			[
+				"pi",
+				"pid_reset"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"code",
+				"codetype"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"pid_",
+				"pid_newid_parthner"
+			],
+			[
+				"exis",
+				"exists"
+			],
+			[
+				"get",
+				"get_code\t(function)"
+			],
+			[
+				"su",
+				"support_count\t(statement)"
+			],
+			[
+				"new",
+				"newid_count\t(statement)"
+			],
+			[
+				"reset",
+				"reset_count\t(param)"
+			],
+			[
+				"line",
+				"lines\t(statement)"
+			],
+			[
+				"tr",
+				"try\tTry/Except"
+			],
+			[
+				"dat",
+				"date_to\t(param)"
+			],
+			[
+				"ch",
+				"check_login\t(function)"
+			],
+			[
+				"log",
+				"login_type\t(param)"
+			],
+			[
+				"du",
+				"dump_cookies\t(function)"
+			],
+			[
+				"ne",
+				"newid_amount\t(statement)"
+			],
+			[
+				"ra",
+				"raw\t(statement)"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"Prof",
+				"UserProfile"
+			],
+			[
+				"g",
+				"grab_config"
+			],
+			[
+				"m",
+				"MyUser\t(class)"
+			],
+			[
+				"p",
+				"profile"
+			],
+			[
+				"is",
+				"is_authenticated"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"Ex",
+				"ExtLogin\t(class)"
+			],
+			[
+				"u",
+				"urls"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"passw",
+				"password_reset"
+			],
+			[
+				"pa",
+				"password_change_done"
+			],
+			[
+				"l",
+				"login\t(function)"
+			],
+			[
+				"Pa",
+				"Parser\t(class)"
+			],
+			[
+				"djan",
+				"django"
+			],
+			[
+				"pass",
+				"password\t(statement)"
+			],
+			[
+				"ge",
+				"get_or_create"
+			],
+			[
+				"filter",
+				"filters\t(param)"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"req",
+				"request\t(function)"
+			],
+			[
+				"for",
+				"format\t(function)"
+			],
+			[
+				"cla",
+				"class\t(keyword)"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"T",
+				"TextInput\t(class)"
+			],
+			[
+				"f",
+				"filter"
+			],
+			[
+				"d",
+				"db"
+			],
+			[
+				"Cli",
+				"ClickEvent\t(class)"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"valida",
+				"validate_dot_com\t(function)"
+			],
+			[
+				"PO",
+				"POST"
+			],
+			[
+				"cl",
+				"class\tNew Class"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect\t(import)"
+			],
+			[
+				"me",
+				"menTotal\t(statement)"
+			],
+			[
+				"li",
+				"line\t(statement)"
+			],
+			[
+				"D",
+				"DEFAULT_REDIRECT_URL"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"deb",
+				"debug_log"
+			],
+			[
+				"op",
+				"options\t(param)"
+			],
+			[
+				"Ki",
+				"KirrURL\t(class)"
+			],
+			[
+				"no",
+				"None\t(instance)"
+			],
+			[
+				"cre",
+				"create_shortcode\t(function)"
+			],
+			[
+				"c",
+				"create_shortcode\t(function)"
+			],
+			[
+				"_",
+				"__class__"
+			],
+			[
+				"auto_n",
+				"auto_now_add"
+			],
+			[
+				"class",
+				"class\t(keyword)"
+			],
+			[
+				"ms",
+				"msg"
+			],
+			[
+				"S",
+				"sendSMS"
+			],
+			[
+				"modu",
+				"modules\t(module)"
+			],
+			[
+				"QK",
+				"QKeySequence\t(class)"
+			],
+			[
+				"men",
+				"menuModeSelected\t(function)"
+			],
+			[
+				"to",
+				"toggled\t(function)"
+			],
+			[
+				"acio",
+				"actionGroup\t(statement)"
+			],
+			[
+				"ac",
+				"activeMode\t(statement)"
+			],
+			[
+				"on_ch",
+				"on_chat_selected\t(function)"
+			],
+			[
+				"setCh",
+				"setChecked\t(function)"
+			],
+			[
+				"QNet",
+				"QNetworkRequest\t(class)"
+			],
+			[
+				"fi",
+				"files\t(forstmt)"
+			],
+			[
+				"pic",
+				"pics"
+			],
+			[
+				"wa",
+				"warning\t(function)"
+			],
+			[
+				"QAp",
+				"QApplication\t(class)"
+			],
+			[
+				"Q",
+				"QtGui\t(module)"
+			],
+			[
+				"mai",
+				"main\t(module)"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"pri",
+				"printPath\t(function)"
+			],
+			[
+				"pla",
+				"playSound"
+			],
+			[
+				"js",
+				"jsEvaluate"
+			],
+			[
+				"resu",
+				"result_counter\t(statement)"
+			],
+			[
+				"la",
+				"last\t(statement)"
+			],
+			[
+				"Ad",
+				"AdmirerThread\t(class)"
+			],
+			[
+				"ad",
+				"admirer_thread\t(import)"
+			],
+			[
+				"dela",
+				"delay\t(statement)"
+			],
+			[
+				"del",
+				"delay\t(statement)"
+			],
+			[
+				"sh",
+				"show_pause\t(function)"
+			],
+			[
+				"cu",
+				"current_photo\t(statement)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/gold/Документы/Пароли/МТС (rekom) интернет.txt",
+			"settings":
+			{
+				"buffer_size": 988,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/gold/Документы/Пароли/zadarma.txt",
+			"settings":
+			{
+				"buffer_size": 205,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\tстатус неизвестен100\tADMIN \tСистемный администратор  \n\tстатус неизвестен107\tBocharova Alina \tСистемный администратор  \n\tподключен108\tBolotov Ivan \tСистемный администратор  \n\tподключен1024\tBalyukov Sergey \tСотрудники партнеров \n\tстатус неизвестен1025\tBorovsky Konstantin \tСотрудники партнеров  \n\tподключен4011\tBozgenko Natalia  \tкаб. 401 \n\tстатус неизвестен4012\tDenisenko Anya \tкаб. 401 \n\tподключен4013\tGureeva Irina \tкаб. 401 \n\tстатус неизвестен4014\tDenisenko Michail \tкаб. 401 \n\tстатус неизвестен4015\tNovikova Marina \tкаб. 401 \n\tподключен4016\tKutnic Valeria \tкаб. 401 \n\tстатус неизвестен4021\tShekhovtsov Vasily \tкаб. 402 \n\tстатус неизвестен4022\tGorbatkov Yuriy \tкаб. 402 \n\tстатус неизвестен4023\tVinakov Sergey \tкаб. 402 \n\tподключен4024\tSlashev Alexandr \tкаб. 402 \n\tстатус неизвестен4025\tPochtarev Alexey \tкаб. 402 \n\tстатус неизвестен4026\tGureev Evgeniy \tкаб. 402 \n\tподключен4031\tIvanova Galina \tкаб. 403 \n\tстатус неизвестен4032\tZaharov Alexandr \tкаб. 403 \n\tподключен4033\tTarasenko Evgeniy \tкаб. 403 \n\tстатус неизвестен4035\tShirobokov Alexey \tкаб. 403 \n\tподключен4041\tGoncharuk Alexey \tкаб. 404 \n\tподключен4042\tTopilskiy Ernest \tкаб. 404 \n\tстатус неизвестен4043\tNefediev Leonid \tкаб. 404 \n\tподключен4045\tDidenko Dmitriy \tкаб. 404 \n\tстатус неизвестен4046\tManakova Liza \tкаб. 404 \n\tстатус неизвестен4061\tIlminskiy Yuriy \tкаб. 406 \n\tстатус неизвестен4071\tChumakov Eugene \tкаб. 407 \n\tстатус неизвестен4072\tShvets Efim \tкаб. 407 \n\tстатус неизвестен4073\tZaharova Oksana  \t \n\tподключен4081\tHarlamov Sergey \t \n\tподключен4082\tGuz Alexandr \t \n\tстатус неизвестен4083\tMenteshov Victor \tкаб. 408 \n\tстатус неизвестен4131\tChepelev Igor \tкаб. 413 \n\tстатус неизвестен4132\tVinnikova Katerina \tкаб. 413 \n\tподключен4133\tAlktulhova Nadezhda \tкаб. 413 \n\tподключен4134\tChudaikin Oleg \tкаб. 413 \n\tподключен4135\tAtamanskiy Evgeniy \tкаб. 413 \n\tподключен4137\tKovalchuk Oksana \tкаб. 413 \n\tстатус неизвестен5011\tGolyadkin Ruslan \t \n\tподключен5012\tBatulin Sergey \tкаб. 501 \n\tподключен5014\tIllarionov Ilya \tкаб. 501 \n\tстатус неизвестен5015\tMaslov Alexandr \tкаб. 501  \n\tподключен5017\tZiborov Roman \tкаб. 501 \n\tстатус неизвестен5018\tPiven Olga \tкаб. 501 \n\tстатус неизвестен5019\tPristavka Alexey \tкаб. 501 \n\tподключен5031\tShusakov Konstantin \t \n\tподключен5033\tZaycev Sergey \tкаб. 503 \n\tстатус неизвестен5034\tBikova Yulia \tкаб. 503 \n\tподключен5035\tMatvienko Ulia \tкаб.503 \n\tподключен5036\tBahmutova Irina \tкаб. 503 \n\tподключен5041\tDIRECTOR \tкаб. 504 + трубка \n\tстатус неизвестен5051\tChumakov Juriy \tкаб. 505 \n\tподключен5052\tGladnev Alexey \tкаб. 505  \n\tподключен5055\tLevashova Anna \tкаб. 505 \n\tподключен5056\tPishinskiy Yuriy \tкаб. 505 \n\tстатус неизвестен5057\tKozlova Victoria \tKozlova Victoria \n\tподключен5058\tKostin Vladimir A. \tkab. 505 \n\tстатус неизвестен5059\tLeonov Alexey \t \n\tподключен40101\tkab.401 \tкаб. 401 трубка \n\tподключен40201\tkab.402 \tкаб. 402 трубка \n\tподключен40401\tkab.404 \tкаб. 404 трубка  \n\tподключен40601\tkab. 406 \tкаб. 406 трубка \n\tподключен40701\tkab. 407 \tкаб. 407 \n\tподключен40801\tkab.408 \tкаб. 408 трубка \n\tподключен41101\tkab. 411 \tкаб. 411 трубка \n\tстатус неизвестен41201\tPeregovorka 412 \tПереговорка 412 каб. \n\tподключен41301\tkab.413 \tкаб. 413 трубка \n\tподключен50101\tkab.501 \tкаб. 501 трубка \n\tподключен50110\tBatulina Anna \tкаб. 501 \n\tподключен50501\tkab.505 \tкаб. 505 трубка ",
+			"settings":
+			{
+				"buffer_size": 3264,
+				"line_ending": "Unix",
+				"name": "статус неизвестен100\tADMIN \tСистемный администрат"
+			}
+		},
+		{
+			"file": "/home/gold/.conkyrc.bak",
+			"settings":
+			{
+				"buffer_size": 2453,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/gold/.conkyrc",
+			"settings":
+			{
+				"buffer_size": 4039,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/gold/Документы/Пароли/MTS симка.txt",
+			"settings":
+			{
+				"buffer_size": 668,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/gold/Документы/Пароли/билайн.txt",
+			"settings":
+			{
+				"buffer_size": 439,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\nSIPID:0042111516\nпароль:kxttEDHfAv\n\n\nc 01/12/16 тариф городскай 2015\nSIPID:0042266296\nпароль:kxttEDHfAv\n\n\nc 01/12/17 тариф Городской 2017_руб\nhttps://www.sipnet.ru/cabinet-login\nSIPID:0042410776\nпароль:kxttEDHfAv\n",
+			"file": "/home/gold/Документы/Пароли/sipnet.ru.txt",
+			"file_size": 227,
+			"file_write_time": 131952116120000000,
+			"settings":
+			{
+				"buffer_size": 214,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 450.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"print",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 553.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"dir",
+			"CLEAR",
+			"print(\"h\")",
+			"print \"hellp\"",
+			"print",
+			"ls",
+			"print 'r'",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/gold/projects/amazon-rekognition/src",
+		"/home/gold/projects/amazon-rekognition/src/raspberry",
+		"/home/gold/projects/amazon-rekognition/src/raspberry/home",
+		"/home/gold/projects/amazon-rekognition/src/raspberry/home/cascades"
+	],
+	"file_history":
+	[
+		"/home/gold/projects/amazon-rekognition/src/raspberry/home/fr.py",
+		"/home/gold/Документы/Пароли/билайн.txt",
+		"/home/gold/Документы/Пароли/MTS симка.txt",
+		"/home/gold/Документы/Пароли/sipnet.ru.txt",
+		"/home/gold/Документы/fx.txt",
+		"/run/user/1000/gvfs/smb-share:server=192.168.0.19,share=secure/Пароли/MTS симка.txt",
+		"/run/user/1000/gvfs/smb-share:server=192.168.0.19,share=secure/Пароли/МТС (rekom) интернет.txt",
+		"/home/gold/projects/OpenCV-Python-Series/src/faces.py",
+		"/home/gold/projects/OpenCV-REST-API/extract/extract.py",
+		"/home/gold/projects/amazon-rekognition/src/README.md",
+		"/home/gold/projects/amazon-rekognition/src/webapp/models.py",
+		"/tmp/rsub-oel4xe/dovecot.conf",
+		"/tmp/rsub-hhr9qe/main.cf",
+		"/tmp/rsub-u510d4/main.cf.bak",
+		"/tmp/rsub-fwewgc/clamd.conf",
+		"/tmp/rsub-5ygenl/master.cf",
+		"/tmp/rsub-jxnz_t/dovecot.conf",
+		"/media/gold/boot/wpa_supplicant.conf",
+		"/tmp/rsub-l0vq4e/default.vrd",
+		"/home/gold/test.jpg",
+		"/home/gold/projects/OpenCV-REST-API/api/__init__.py",
+		"/home/gold/projects/OpenCV-REST-API/api/wsgi.py",
+		"/media/gold/boot/ssh",
+		"/home/gold/projects/amazon-rekognition/src/examples/raspberry/boot/wpa_supplicant.conf",
+		"/home/gold/projects/cps/geos/port_map.sh",
+		"/home/gold/projects/amazon-rekognition/src/examples/facerec_from_webcam_faster.py",
+		"/home/gold/projects/amazon-rekognition/src/examples/create-collection.py",
+		"/home/gold/backups/ЦПС/мои достижения.ече",
+		"/tmp/rsub-x61hqq/apcupsd.conf",
+		"/home/gold/projects/AmazonRekognition/src/.gitignore",
+		"/home/gold/projects/AmazonRekognition/src/search-faces-by-local-image-collection.py",
+		"/home/gold/projects/AmazonRekognition/src/README.md",
+		"/home/gold/projects/AmazonRekognition/src/search-faces-by-image-collection.py",
+		"/home/gold/projects/AmazonRekognition/src/add-faces-to-collection.py",
+		"/home/gold/projects/AmazonRekognition/src/create-collection.py",
+		"/home/gold/projects/AmazonRekognition/src/test-4-index-faces.py",
+		"/home/gold/SeHelp",
+		"/home/gold/projects/AmazonRekognition/src/rekognition-image-python-create-collection.py",
+		"/home/gold/projects/setracker.herokuapp.com/src/billing/views.py",
+		"/home/gold/projects/AmazonRekognition/src/amazon-rekognition.py",
+		"/home/gold/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/gold/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/gold/projects/AmazonRekognition/src/test-5-search-faces.py",
+		"/home/gold/projects/alisa_source/TestLogin.py",
+		"/home/gold/projects/alisa_source/modules/logic/main.py",
+		"/home/gold/projects/alisa_source/modules/logic/login.py",
+		"/home/gold/projects/setracker.herokuapp.com/src/api/management/commands/run.py",
+		"/home/gold/projects/alisa_source/log/02.html",
+		"/home/gold/projects/alisa_source/log/01.html",
+		"/home/gold/projects/alisa_source/log/02.log",
+		"/home/gold/projects/alisa_source/log/01.log",
+		"/home/gold/projects/alisa_source/Alisa-Sender.py",
+		"/home/gold/Загрузки/Telegram Desktop/01.log",
+		"/home/gold/.aws/config",
+		"/home/gold/Загрузки/Telegram Desktop/alisa (2).log",
+		"/home/gold/Загрузки/Telegram Desktop/alisa.log",
+		"/home/gold/projects/alisa_source/notes.txt",
+		"/home/gold/projects/alisa_source/README.md",
+		"/home/gold/projects/alisa_source/modules/__init__.py",
+		"/home/gold/projects/alisa_source/modules/script/chat.pyc",
+		"/home/gold/.aws/credentials",
+		"/home/gold/Документы/AWS/AmazonRekognitionFullAccess/credentials.csv",
+		"/home/gold/projects/setracker.herokuapp.com/src/autodeploy/liqpay/sandbox/index.php",
+		"/home/gold/projects/setracker.herokuapp.com/src/autodeploy/liqpay/sandbox/MyLiqPay.php",
+		"/home/gold/projects/setracker.herokuapp.com/src/setracker/settings.py",
+		"/home/gold/projects/setracker.herokuapp.com/src/autodeploy/liqpay/sandbox/data.txt",
+		"/home/gold/projects/setracker.herokuapp.com/src/autodeploy/liqpay/sandbox/signature.txt",
+		"/home/gold/projects/setracker.herokuapp.com/src/autodeploy/liqpay/MyLiqPay.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.0.19,share=kladovka/Katya/OpenVpn/OpenVpn.txt",
+		"/home/gold/projects/setracker.herokuapp.com/src/autodeploy/yandex/form.html",
+		"/home/gold/Загрузки/log/alisa.log.2019-11-29",
+		"/home/gold/Загрузки/log/alisa.log",
+		"/home/gold/projects/alisa_source/modules/script/chat.py",
+		"/home/gold/Загрузки/get_online_list.json",
+		"/home/gold/projects/setracker.herokuapp.com/src/.gitignore",
+		"/home/gold/projects/setracker.herokuapp.com/src/autodeploy/liqpay/index.php",
+		"/media/gold/FE261FC8261F80B7/OpenVpn/logins.txt",
+		"/home/gold/Загрузки/regcodes.csv",
+		"/home/gold/projects/setracker.herokuapp.com/src/autodeploy/autodeploy_dev.sh",
+		"/home/gold/projects/setracker.herokuapp.com/src/autodeploy/pushcode.py",
+		"/home/gold/Загрузки/index.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.0.19,share=kladovka/Lazarev/Форма платежа.txt",
+		"/home/gold/projects/setracker.herokuapp.com/src/billing/urls.py",
+		"/home/gold/projects/setracker.herokuapp.com/src/api/urls.py",
+		"/home/gold/projects/setracker.herokuapp.com/src/setracker/urls.py",
+		"/home/gold/projects/setracker.herokuapp.com/src/billing/tests.py",
+		"/home/gold/projects/setracker.herokuapp.com/src/api/views.py",
+		"/home/gold/Загрузки/lq/index.html",
+		"/home/gold/Загрузки/logins.txt",
+		"/home/gold/projects/setracker.herokuapp.com/src/autodeploy/http_post.js",
+		"/home/gold/Загрузки/MyLiqPay.php",
+		"/home/gold/Загрузки/checkout.php",
+		"/home/gold/Загрузки/index.html",
+		"/home/gold/Загрузки/makeform.php",
+		"/home/gold/projects/setracker.herokuapp.com/src/api/models.py",
+		"/home/gold/projects/setracker.herokuapp.com/src/templates/billing/main.html",
+		"/home/gold/Загрузки/lq/checkout.css",
+		"/tmp/rsub-7wwdq3/rsync_backup.sh",
+		"/tmp/rsub-ie_1r4/smb.conf",
+		"/tmp/rsub-gfnhln/smb.conf",
+		"/run/user/1000/gvfs/smb-share:server=192.168.0.19,share=secure/rsyncbackup.sh",
+		"/home/gold/Загрузки/lq/checkout.php",
+		"/home/gold/Загрузки/lq/pay-result.php",
+		"/home/gold/Загрузки/lq/style.css",
+		"/tmp/rsub-0l96mr/rsync_backup.sh",
+		"/home/gold/projects/setracker.herokuapp.com/src/templates/billing/pay.html",
+		"/home/gold/projects/setracker.org/payment/makeform.php",
+		"/home/gold/projects/setracker.org/payment/LiqPay.php",
+		"/home/gold/projects/setracker.herokuapp.com/src/templates/billing/__main.html",
+		"/home/gold/projects/setracker.herokuapp.com/src/api/forms.py",
+		"/home/gold/projects/Try-Django-2.2-master/src/searches/views.py",
+		"/home/gold/projects/Try-Django-2.2-master/src/blog/views.py",
+		"/home/gold/projects/setracker.herokuapp.com/src/templates/billing/tilda.html",
+		"/home/gold/projects/setracker.herokuapp.com/src/templates/base_generic.html",
+		"/home/gold/projects/setracker.herokuapp.com/src/templates/checkout.html",
+		"/tmp/rsub-_9qouw/rsync_backup.sh",
+		"/home/gold/Рабочий стол/pw,523681,imei,869625038862367#",
+		"/run/user/1000/gvfs/smb-share:server=192.168.0.19,share=secure/geos_online.sh",
+		"/home/gold/projects/setracker.herokuapp.com/src/Procfile",
+		"/home/gold/projects/setracker.herokuapp.com/src/runtime.txt",
+		"/home/gold/projects/setracker.herokuapp.com/src/api/script/sovok.py",
+		"/run/user/1000/gvfs/smb-share:server=192.168.0.19,share=secure/GeosDev/geos-dev",
+		"/tmp/rsub-_gr623/SendMailIF",
+		"/tmp/rsub-p6_3t6/SendMailIFAdmin.sh",
+		"/tmp/rsub-_4eq0x/ip_blacklist.sh",
+		"/tmp/rsub-o__5_v/main.cf",
+		"/tmp/rsub-5lv9wm/whitemails.txt",
+		"/tmp/rsub-7_a459/smtpd_milter_map"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 121.5,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"eth0",
+			"test",
+			"postmaster",
+			"postmaster_address",
+			"10024",
+			"web",
+			"drweb",
+			":",
+			"\\n\\n",
+			"\\n",
+			"\\n\\n",
+			"\\n",
+			" \n",
+			"print ",
+			"print \"",
+			"repl",
+			"ctrl+b",
+			"logging.critical",
+			"logging.warning",
+			"logging.info",
+			"logger",
+			"logging",
+			"self.",
+			"mail_",
+			"\\n",
+			"','",
+			"\\n",
+			",",
+			"/n",
+			"\\n",
+			"/n",
+			"$/n",
+			"$",
+			"^$",
+			"$",
+			"^",
+			"/>",
+			" />",
+			"validator",
+			"<br />",
+			"View",
+			"Response",
+			"sendmail",
+			"settings",
+			"messages",
+			"JsonResponse",
+			"HttpResponse",
+			"get_object_or_404",
+			"HttpResponseRedirect",
+			"method",
+			"GET",
+			"Method ",
+			"tracker-id",
+			"product_name",
+			"type",
+			"type=",
+			"#",
+			"t-input-error",
+			"\\d",
+			"<form",
+			"/archive1/MyArchive",
+			"/volume2/rsync12",
+			"urlforward",
+			"namebright",
+			"json",
+			"='79040945368'",
+			"\\n",
+			"{a}",
+			"virtual_mailbox_domains.cf",
+			"10025",
+			"12345",
+			"102",
+			")",
+			"login",
+			"get_code",
+			"buf",
+			"tun",
+			"\\",
+			"AgDataConnect/Cache/",
+			"G:\\",
+			"192.168.0.31",
+			"agrodozor",
+			"10.0.1.",
+			"192.168.0.34",
+			"39Yvkemf",
+			"10025",
+			"smtpd_error_sleep_time",
+			"smtpd_hard_error_limit",
+			"smtpd_soft_error_limit",
+			"smtpd_error_sleep_time",
+			"inet",
+			"smtp-amavis",
+			"465",
+			"ssl",
+			"[PHP_SOAP]",
+			"php_soap.dll",
+			"Temp",
+			"pdo_mysql",
+			"pdo_mysql.cache_size",
+			"error_log",
+			"error_log=",
+			"session.save_path",
+			"upload_tmp_dir",
+			"error_log",
+			"session.save_pat",
+			"extension_dir",
+			"safe_mode",
+			"This is the php.ini-production INI file.",
+			"reset_error",
+			"fail_orders",
+			"192.168.0.7",
+			"192.168.0.38",
+			"period",
+			"print",
+			"\\n",
+			"exists",
+			"settings.IMEI_PATTERN",
+			"sendmail",
+			"Mail.objects.get",
+			"Mail.objects.get(type",
+			"type",
+			"send_statistic",
+			"ENDPOINTS_ASIA",
+			"ENDPOINTS",
+			"PYTHONPATH",
+			"europe",
+			"type",
+			"mail_admins"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"wlp5s0",
+			"postmaster@1cps.ru",
+			"-",
+			"\\n",
+			"",
+			"print(",
+			"print",
+			"logging",
+			"logger",
+			"",
+			"',",
+			"':'",
+			"',",
+			"'",
+			"','",
+			"'",
+			">",
+			"",
+			"regcode",
+			"X",
+			"/archive2/MyArchive",
+			"/archive1/MyArchive",
+			"=sms_admins",
+			"",
+			"/",
+			"",
+			"geos.online::drive_g/",
+			"geos.online",
+			"",
+			"'<IMEI>'",
+			"product_button",
+			"__str__",
+			"   __str__",
+			"   ",
+			"self.sesion",
+			"test.1cps.ru",
+			"/home/gold/projects/fondyweb/fondyweb",
+			"/home/gold/projects/fondyweb/fondyweb/",
+			"USE [master]\nGO\nALTER DATABASE [$1] SET  SINGLE_USER WITH ROLLBACK IMMEDIATE\nGO\nUSE [master]\nGO\nEXEC master.dbo.sp_detach_db @dbname = N'$1'\nGO\\n",
+			"USE [master]\nGO\nALTER DATABASE [$1] SET  SINGLE_USER WITH ROLLBACK IMMEDIATE\nGO\nUSE [master]\nGO\nEXEC master.dbo.sp_detach_db @dbname = N'@1'\nGO\\n",
+			"USE [master]\nGO\nALTER DATABASE [$1] SET  SINGLE_USER WITH ROLLBACK IMMEDIATE\nGO\nUSE [master]\nGO\nEXEC master.dbo.sp_detach_db @dbname = N'@1'\nGO",
+			"",
+			"ENDPOINTS",
+			"",
+			"volume0",
+			"/volume0",
+			"\n",
+			"",
+			"btn-primary",
+			"",
+			"C:\\oracle\\instantclient_12_1",
+			"ipa.1cps.ru",
+			"1CPS.RU",
+			"dabu.1cps.ru",
+			"-w",
+			"debian-server",
+			"mail.1cps.ru",
+			"192.168.0.8",
+			"admin",
+			"sysadmin.1cps.ru/wiki",
+			"sysadmin.1cps.ru",
+			"sysadmin.1cps.ru/wiki",
+			"sysadmin.1cps.ru",
+			"http://sysadmin.1cps.ru/",
+			"Погрузка зерна",
+			"34214",
+			"curl -H \"User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36\" ",
+			".*@.* REJECT",
+			"/^(\\d{1,3}[\\.-]\\d{1,3}[\\.-]\\d{1,3}[\\.-]\\d{1,3})$/ REJECT ACCESS DENIED. Your email was rejected because the sending mail server appears to be on a dynamic IP address that should not be doing direct mail delivery (${1})",
+			"forward1p.cmail.yandex.net",
+			" ",
+			"",
+			"*2",
+			"MonthlyCycle",
+			"",
+			"мАгроУправление",
+			"Карантин",
+			"amacube",
+			"localhost",
+			"ooyeif4SeeLo1koos3IeSeepeishaic",
+			"amacube",
+			"/Boot/iso/Linux",
+			"self.status_message",
+			"",
+			"logging.debug('[START №{0}]{1}[END]'.format(i, x.toUtf8()))",
+			"debug=DEBUG",
+			"\"",
+			"Сервера",
+			"Servers",
+			"Адрес",
+			"    Сервера",
+			"Адрес",
+			"505    Разработка",
+			"503    Комерсы",
+			"501    Автоматизация",
+			"413    Субсидеры",
+			"    403",
+			"    404",
+			"    404    Госсектор",
+			"    403    Субсидеры",
+			"    402    Геос",
+			"    401    Геос",
+			"    401    ",
+			" 401 ",
+			" ",
+			"",
+			"QtGui.QApplication",
+			"replaceInStrings(QtCore.QRegExp(\"^\\s+|\\s+$\"), \"\")",
+			"%name%",
+			"'",
+			"cows.jpg",
+			"white.png",
+			"appicon.png",
+			":/res/",
+			"gui.",
+			"res/",
+			"error_count",
+			"status_message",
+			"self.config.mode",
+			"self.body",
+			"self.index",
+			"self.body",
+			"msg_body",
+			"one_msg_index",
+			"config",
+			"Config",
+			":/",
+			"chat_blacklist_body_raw"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/gold/Документы/Пароли/МТС (rekom) интернет.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 988,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/gold/Документы/Пароли/zadarma.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								130,
+								130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3264,
+								3264
+							]
+						],
+						"settings":
+						{
+							"auto_name": "статус неизвестен100\tADMIN \tСистемный администрат",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/gold/.conkyrc.bak",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1893,
+								1893
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 990.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/gold/.conkyrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4039,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/gold/Документы/Пароли/MTS симка.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 668,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/gold/Документы/Пароли/билайн.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/gold/Документы/Пароли/sipnet.ru.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 80.0
+	},
+	"output.exec":
+	{
+		"height": 248.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.rope_python_documentation":
+	{
+		"height": 118.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 271.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "AmazonRekognition.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"105",
+				"staticfiles/admin/js/vendor/select2/i18n/en.05649b26c086.js"
+			],
+			[
+				"th",
+				"Alisa-Sender/script/threads.py"
+			],
+			[
+				"bas",
+				"Alisa-Sender/logic/base.py"
+			],
+			[
+				"ad",
+				"Alisa-Sender/script/admirers.py"
+			],
+			[
+				"ch",
+				"Alisa-Sender/script/chat.py"
+			],
+			[
+				"conf",
+				"Alisa-Sender/gui/config_ui.py"
+			],
+			[
+				"con",
+				"Alisa-Sender/res/config.ui"
+			],
+			[
+				"al",
+				"Alisa-Sender/Alisa-Sender.py"
+			],
+			[
+				"mai",
+				"Alisa-Sender/logic/main.py"
+			],
+			[
+				"ma",
+				"Alisa-Sender/logic/main.py"
+			],
+			[
+				"aali",
+				"Alisa-Sender/Alisa-Sender.py"
+			],
+			[
+				"ba",
+				"Alisa-Sender/logic/base.py"
+			],
+			[
+				"ac",
+				"Alisa-Sender/logic/activate.py"
+			],
+			[
+				"",
+				"Alisa-Sender/Alisa-Sender.py"
+			],
+			[
+				"co",
+				"Alisa-Sender/compile.py"
+			],
+			[
+				"ti",
+				"script/timer_thread.py"
+			],
+			[
+				"lo",
+				"logic/login.py"
+			],
+			[
+				"c",
+				"config/config.py"
+			],
+			[
+				"se",
+				"logic/base.py"
+			],
+			[
+				"main",
+				"config/main.py"
+			],
+			[
+				"set",
+				"ui/settings.ui"
+			],
+			[
+				"re",
+				"README.txt"
+			],
+			[
+				"d",
+				"DEBUG"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
